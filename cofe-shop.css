@@ -500,12 +500,20 @@ body{
     .Arabica-Content{
         font-size: 0.8rem;
     }
+    .arabica-box img{
+        width: 100%;
+        height: auto;
+    }
     .Arabica-Content h3{
         font-size: 1.5rem;
     }
     /* Robusta */
     .Robusta-section{
         padding: 2rem;
+    }
+    .Robusta-box img{
+        width: 100%;
+        height: auto;
     }
     .Robusta-Content{
         font-size: 0.8rem;
@@ -520,6 +528,10 @@ body{
     .Liberica-content{
         font-size: 0.8rem;
     }
+    .Liberica-box img{
+        width: 100%;
+        height: auto;
+    }
    .Liberica-content h3{
        font-size: 1.5rem;
    }
@@ -529,6 +541,10 @@ body{
    .Excelsa-content{
        font-size: 0.8rem;
    }
+    .Excelsa-box img{
+        width: 100%;
+        height: auto;
+    }
    .Excelsa-content h3{
        font-size: 1.5rem;
    }
@@ -537,4 +553,5 @@ body{
        font-size: 0.7rem;
    }
 }
+
 
